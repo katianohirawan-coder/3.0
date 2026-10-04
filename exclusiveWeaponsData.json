@@ -1,0 +1,478 @@
+{
+  "Soltina": {
+    "weaponName": "Solsphere",
+    "element": "Azure"
+  },
+  "Amleth": {
+    "weaponName": "Oathkeeper",
+    "element": "Azure"
+  },
+  "Fenrir": {
+    "weaponName": "Vanagandr",
+    "element": "Azure"
+  },
+  "Florence": {
+    "weaponName": "Lance of the Unbending Vow",
+    "element": "Azure"
+  },
+  "Moddey": {
+    "weaponName": "Entombment of Shadows",
+    "element": "Azure"
+  },
+  "Sonya": {
+    "weaponName": "Viking's Twin Axes",
+    "element": "Azure"
+  },
+  "Sivi": {
+    "weaponName": "Daybringer",
+    "element": "Azure"
+  },
+  "Stella": {
+    "weaponName": "Chaos Queller",
+    "element": "Azure"
+  },
+  "Fenny": {
+    "weaponName": "M260 Demon Buster",
+    "element": "Azure"
+  },
+  "Holy Night Prayer Tropon": {
+    "weaponName": "Pon Pon",
+    "element": "Azure"
+  },
+  "Gil'ulal": {
+    "weaponName": "Star of Twilight",
+    "element": "Azure"
+  },
+  "Liselotte": {
+    "weaponName": "Cerulean Grimoire",
+    "element": "Azure"
+  },
+  "Eir": {
+    "weaponName": "M28 Magic Tracking Rifle",
+    "element": "Azure"
+  },
+  "Minasumari": {
+    "weaponName": "Sutuof Vengeance",
+    "element": "Azure"
+  },
+  "Nina Little Big Adventure": {
+    "weaponName": "Lost Child's Apple",
+    "element": "Azure"
+  },
+  "Serruria": {
+    "weaponName": "Tablet of the Ancients",
+    "element": "Azure"
+  },
+  "Eureka": {
+    "weaponName": "Travel Buddy",
+    "element": "Azure"
+  },
+  "Cordie Greatest Ringmaster": {
+    "weaponName": "Greatest Show",
+    "element": "Azure"
+  },
+  "Merlynn Sage of the Deep Forest": {
+    "weaponName": "Chronicle of the Sage",
+    "element": "Azure"
+  },
+  "Evelyn": {
+    "weaponName": "Ever Thine, Ever Hours",
+    "element": "Azure"
+  },
+  "Fia Trace": {
+    "weaponName": "Wistful Ingot",
+    "element": "Azure"
+  },
+  "Primavera Songstress for the Lake": {
+    "weaponName": "Minivera on Vacation",
+    "element": "Azure"
+  },
+  "Cu Sith": {
+    "weaponName": "Dragon God's Wing",
+    "element": "Azure"
+  },
+  "Sabrina": {
+    "weaponName": "Riviere",
+    "element": "Crimson"
+  },
+  "Fressia": {
+    "weaponName": "Notebook on Flowers",
+    "element": "Crimson"
+  },
+  "Amour": {
+    "weaponName": "Thorns of Love",
+    "element": "Crimson"
+  },
+  "Rean": {
+    "weaponName": "Burning Promise",
+    "element": "Crimson"
+  },
+  "Dian": {
+    "weaponName": "Angel's Howl",
+    "element": "Crimson"
+  },
+  "Belle": {
+    "weaponName": "Staff of Fervent Salvation",
+    "element": "Crimson"
+  },
+  "Sophia": {
+    "weaponName": "Vermilion Virtue",
+    "element": "Crimson"
+  },
+  "Chiffon": {
+    "weaponName": "Staff of Ancient Wisdom",
+    "element": "Crimson"
+  },
+  "Artie": {
+    "weaponName": "Vulcan's Magic Circle",
+    "element": "Crimson"
+  },
+  "Cordie Summer's Reverb": {
+    "weaponName": "Festive Summer",
+    "element": "Crimson"
+  },
+  "Priscilla": {
+    "weaponName": "Rapunzel",
+    "element": "Crimson"
+  },
+  "Matilda": {
+    "weaponName": "Regis Arbre",
+    "element": "Crimson"
+  },
+  "Morgna": {
+    "weaponName": "Aingeal's Message",
+    "element": "Crimson"
+  },
+  "Soltina Heartwarming Memories": {
+    "weaponName": "Bear Earmuffs",
+    "element": "Crimson"
+  },
+  "Artoria": {
+    "weaponName": "Holy Sword Caladbolg",
+    "element": "Crimson"
+  },
+  "Shizu Snow Flower's Vow": {
+    "weaponName": "Winter's Bloom",
+    "element": "Crimson"
+  },
+  "Lucille": {
+    "weaponName": "Liberation's Light",
+    "element": "Crimson"
+  },
+  "Flack": {
+    "weaponName": "Delightful Rifle",
+    "element": "Crimson"
+  },
+  "Liebe": {
+    "weaponName": "Stamp Hammer",
+    "element": "Crimson"
+  },
+  "Ayse": {
+    "weaponName": "Navigator of Guidance",
+    "element": "Crimson"
+  },
+  "Lillicotte": {
+    "weaponName": "Our Dearest Fair Lady",
+    "element": "Crimson"
+  },
+  "Guinevere": {
+    "weaponName": "Chalice of Nurturing",
+    "element": "Crimson"
+  },
+  "Ivy": {
+    "weaponName": "Emma",
+    "element": "Emerald"
+  },
+  "Merlyn": {
+    "weaponName": "Staff of Sylvan Harvest",
+    "element": "Emerald"
+  },
+  "Cordie": {
+    "weaponName": "Jack & Pot",
+    "element": "Emerald"
+  },
+  "Nina": {
+    "weaponName": "Lost Child",
+    "element": "Emerald"
+  },
+  "Mertillier": {
+    "weaponName": "Archeus Principle",
+    "element": "Emerald"
+  },
+  "Luke": {
+    "weaponName": "Herald of Deliverance",
+    "element": "Emerald"
+  },
+  "Lea": {
+    "weaponName": "Serial Slasher",
+    "element": "Emerald"
+  },
+  "Sabrina Soldier of the Summer Breeze": {
+    "weaponName": "Rivage",
+    "element": "Emerald"
+  },
+  "Fia": {
+    "weaponName": "Helpless Ingot",
+    "element": "Emerald"
+  },
+  "Claudia": {
+    "weaponName": "Twin Dragons",
+    "element": "Emerald"
+  },
+  "Yuni": {
+    "weaponName": "Bottled Sunlight",
+    "element": "Emerald"
+  },
+  "Alexandra": {
+    "weaponName": "Guardian Greatshield",
+    "element": "Emerald"
+  },
+  "Milla": {
+    "weaponName": "Vivace",
+    "element": "Emerald"
+  },
+  "Lunalynn Holy Night's Fairy": {
+    "weaponName": "Snowy White Scarf",
+    "element": "Emerald"
+  },
+  "Tillie": {
+    "weaponName": "Lacrimosa",
+    "element": "Emerald"
+  },
+  "Pola": {
+    "weaponName": "Liberte Lancer",
+    "element": "Emerald"
+  },
+  "D.D.": {
+    "weaponName": "Supreme Goddess",
+    "element": "Emerald"
+  },
+  "Yildiz": {
+    "weaponName": "Siyah Dis",
+    "element": "Emerald"
+  },
+  "Stella Shining Star of Holy Darkness": {
+    "weaponName": "Holy Chaos Queller",
+    "element": "Emerald"
+  },
+  "Kobel": {
+    "weaponName": "Hoarfrost's Dew",
+    "element": "Emerald"
+  },
+  "Eidene": {
+    "weaponName": "Levenslantaarn",
+    "element": "Emerald"
+  },
+  "Florence Twilight's Vow": {
+    "weaponName": "Unbending Twilight",
+    "element": "Emerald"
+  },
+  "Artoria Holy Sword of Golden Light": {
+    "weaponName": "Holy Sword Excalibur",
+    "element": "Emerald"
+  },
+  "Mimi": {
+    "weaponName": "Cat Paws",
+    "element": "Amber"
+  },
+  "Tropon": {
+    "weaponName": "Swindler's Hidden Claws",
+    "element": "Amber"
+  },
+  "Hathor": {
+    "weaponName": "Showbird",
+    "element": "Amber"
+  },
+  "Olivia": {
+    "weaponName": "Unam Sanctam",
+    "element": "Amber"
+  },
+  "Primavera": {
+    "weaponName": "Minivera",
+    "element": "Amber"
+  },
+  "Carol": {
+    "weaponName": "Forget-Me-Not Diary",
+    "element": "Amber"
+  },
+  "Veela": {
+    "weaponName": "Fishy",
+    "element": "Amber"
+  },
+  "Richesse": {
+    "weaponName": "Hermes's Guidance",
+    "element": "Amber"
+  },
+  "Moddey Gravekeeper's Summer Holiday": {
+    "weaponName": "Tropical Floaty",
+    "element": "Amber"
+  },
+  "Amour Holy Night's Gift": {
+    "weaponName": "True Love's Gift",
+    "element": "Amber"
+  },
+  "Iris Anttendant Tainted in Black": {
+    "weaponName": "Heavy Brand",
+    "element": "Amber"
+  },
+  "Asahi": {
+    "weaponName": "Silent Shooting Star",
+    "element": "Amber"
+  },
+  "Amleth A Midsummer Day's Dream": {
+    "weaponName": "Midsummer Day's Dream",
+    "element": "Amber"
+  },
+  "Tama": {
+    "weaponName": "Foxflame Charm",
+    "element": "Amber"
+  },
+  "Rustica": {
+    "weaponName": "Ingemisco",
+    "element": "Amber"
+  },
+  "Potpourri": {
+    "weaponName": "Magic of Courage",
+    "element": "Amber"
+  },
+  "Moineaau": {
+    "weaponName": "Nuit Remige",
+    "element": "Amber"
+  },
+  "Mihri": {
+    "weaponName": "Alev Miras",
+    "element": "Amber"
+  },
+  "Fenrir A Treasured Bond": {
+    "weaponName": "Snow Puff Mittens",
+    "element": "Amber"
+  },
+  "Myrlennia": {
+    "weaponName": "Fairy Haven",
+    "element": "Amber"
+  },
+  "Trixie": {
+    "weaponName": "Wandering Bunny",
+    "element": "Amber"
+  },
+  "Cattleya": {
+    "weaponName": "Omniradix",
+    "element": "Amber"
+  },
+  "Shiloh": {
+    "weaponName": "Anne",
+    "element": "Amber"
+  },
+  "Natasha": {
+    "weaponName": "Scythe of Grave Blossom",
+    "element": "Radiance"
+  },
+  "Fortina": {
+    "weaponName": "Holy Cross",
+    "element": "Radiance"
+  },
+  "Cerberus": {
+    "weaponName": "Thor's Hammer",
+    "element": "Radiance"
+  },
+  "Rusalka": {
+    "weaponName": "Cendrillon",
+    "element": "Radiance"
+  },
+  "Elfriede": {
+    "weaponName": "Lance of Longinus",
+    "element": "Radiance"
+  },
+  "Rosalie Apostle": {
+    "weaponName": "Master's Old Staff",
+    "element": "Radiance"
+  },
+  "Aine": {
+    "weaponName": "Harp of Fading Bubbles",
+    "element": "Radiance"
+  },
+  "Meria": {
+    "weaponName": "Alstroe Cluster",
+    "element": "Radiance"
+  },
+  "Eirene": {
+    "weaponName": "Carousel Cane",
+    "element": "Radiance"
+  },
+  "A.A SKy of Rust": {
+    "weaponName": "Wings of Hope",
+    "element": "Radiance"
+  },
+  "Lumica": {
+    "weaponName": "Remnant Bloom",
+    "element": "Radiance"
+  },
+  "Liberia": {
+    "weaponName": "Squishy",
+    "element": "Radiance"
+  },
+  "Lily": {
+    "weaponName": "Flower of Atonement",
+    "element": "Radiance"
+  },
+  "Fortina Twilight's Promise": {
+    "weaponName": "Holy Twilight",
+    "element": "Radiance"
+  },
+  "Lunalynn": {
+    "weaponName": "Lunasphere",
+    "element": "Chaos"
+  },
+  "Valeriede": {
+    "weaponName": "Fists of Conflagration",
+    "element": "Chaos"
+  },
+  "A.A.": {
+    "weaponName": "Saberwings of Rust",
+    "element": "Chaos"
+  },
+  "Ophelia": {
+    "weaponName": "Executioner",
+    "element": "Chaos"
+  },
+  "Armstrong": {
+    "weaponName": "M1805 Magic Blitzer",
+    "element": "Chaos"
+  },
+  "Illya The Witch of God's Curse": {
+    "weaponName": "Black Miracle",
+    "element": "Chaos"
+  },
+  "Paladea": {
+    "weaponName": "Peacemaker",
+    "element": "Chaos"
+  },
+  "Kaguya": {
+    "weaponName": "Tsukuyomi's Scroll",
+    "element": "Chaos"
+  },
+  "Natasha The Witch of Festive Blossom": {
+    "weaponName": "Bouquet of Celebration",
+    "element": "Chaos"
+  },
+  "Nebra": {
+    "weaponName": "Bubbles of Despair",
+    "element": "Chaos"
+  },
+  "Carmilla": {
+    "weaponName": "Ialtog's Hairpis",
+    "element": "Chaos"
+  },
+  "Cerberus Treasured Candy": {
+    "weaponName": "Magical Candy",
+    "element": "Chaos"
+  },
+  "Regina": {
+    "weaponName": "Avaritia's fan",
+    "element": "Chaos"
+  },
+  "Elaine": {
+    "weaponName": "Kenotaphion",
+    "element": "Chaos"
+  }
+}

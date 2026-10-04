@@ -1,0 +1,486 @@
+{
+  "1": {
+    "names": {
+      "1_1": "Training Sword",
+      "1_2": "Training Pistol",
+      "1_4": "Fundamentals of Battle",
+      "4_7": "Training Helm",
+      "3_7": "Training Gloves",
+      "5_7": "Training Vest",
+      "6_7": "Training Boots",
+      "2_7": "Training Earrings"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 359.0,
+        "armorBase": 179.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 359.0,
+        "armorBase": 179.0,
+        "additionalParamTotal": 25
+      },
+      "B": {
+        "weaponBase": 359.0,
+        "armorBase": 179.0,
+        "additionalParamTotal": 50
+      },
+      "A": {
+        "weaponBase": 359.0,
+        "armorBase": 179.0,
+        "additionalParamTotal": 75
+      },
+      "S": {
+        "weaponBase": 359.0,
+        "armorBase": 179.0,
+        "additionalParamTotal": 100
+      },
+      "S+": {
+        "weaponBase": 394.0,
+        "armorBase": 196.0,
+        "additionalParamTotal": 110
+      }
+    }
+  },
+  "10": {
+    "names": {
+      "1_1": "Combat Sword",
+      "1_2": "Combat Pistol",
+      "1_4": "Combat Manuscript",
+      "4_7": "Combat Helmet",
+      "3_7": "Combat Gloves",
+      "5_7": "Combat Vest",
+      "6_7": "Combat Boots",
+      "2_7": "Combat Ring"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 423.0,
+        "armorBase": 211.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 423.0,
+        "armorBase": 211.0,
+        "additionalParamTotal": 33
+      },
+      "B": {
+        "weaponBase": 423.0,
+        "armorBase": 211.0,
+        "additionalParamTotal": 67
+      },
+      "A": {
+        "weaponBase": 423.0,
+        "armorBase": 211.0,
+        "additionalParamTotal": 100
+      },
+      "S": {
+        "weaponBase": 423.0,
+        "armorBase": 211.0,
+        "additionalParamTotal": 134
+      },
+      "S+": {
+        "weaponBase": 465.0,
+        "armorBase": 232.0,
+        "additionalParamTotal": 147
+      }
+    }
+  },
+  "20": {
+    "names": {
+      "1_1": "Bronze Sword",
+      "1_2": "Bronze Pistol",
+      "1_4": "Bronze Magic Tome",
+      "4_7": "Bronze Helm",
+      "3_7": "Bronze Battle Gloves",
+      "5_7": "Bronze Body Armor",
+      "6_7": "Bronze Boots",
+      "2_7": "Bronze Earrings"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 513.0,
+        "armorBase": 256.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 513.0,
+        "armorBase": 256.0,
+        "additionalParamTotal": 45
+      },
+      "B": {
+        "weaponBase": 513.0,
+        "armorBase": 256.0,
+        "additionalParamTotal": 91
+      },
+      "A": {
+        "weaponBase": 513.0,
+        "armorBase": 256.0,
+        "additionalParamTotal": 137
+      },
+      "S": {
+        "weaponBase": 513.0,
+        "armorBase": 256.0,
+        "additionalParamTotal": 183
+      },
+      "S+": {
+        "weaponBase": 564.0,
+        "armorBase": 281.0,
+        "additionalParamTotal": 201
+      }
+    }
+  },
+  "40": {
+    "names": {
+      "1_1": "Silver Sword",
+      "1_2": "Silver Pistol",
+      "1_4": "Silver Magic Tome",
+      "4_7": "Silver Helm",
+      "3_7": "Silver Gauntlets",
+      "5_7": "Silver Corselet",
+      "6_7": "Silver Battle Boots",
+      "2_7": "Silver Necklace"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 780.0,
+        "armorBase": 390.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 780.0,
+        "armorBase": 390.0,
+        "additionalParamTotal": 86
+      },
+      "B": {
+        "weaponBase": 780.0,
+        "armorBase": 390.0,
+        "additionalParamTotal": 172
+      },
+      "A": {
+        "weaponBase": 780.0,
+        "armorBase": 390.0,
+        "additionalParamTotal": 258
+      },
+      "S": {
+        "weaponBase": 780.0,
+        "armorBase": 390.0,
+        "additionalParamTotal": 344
+      },
+      "S+": {
+        "weaponBase": 858.0,
+        "armorBase": 429.0,
+        "additionalParamTotal": 378
+      }
+    }
+  },
+  "60": {
+    "names": {
+      "1_1": "Sword of the Soldier",
+      "1_2": "Pistol of the Soldier",
+      "1_4": "Memoir of the Soldier",
+      "4_7": "Helm of the Soldier",
+      "3_7": "Gloves of the Soldier",
+      "5_7": "Cuirass of the Soldier",
+      "6_7": "Boots of the Soldier",
+      "2_7": "Necklace of the Soldier"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 1222.0,
+        "armorBase": 611.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 1222.0,
+        "armorBase": 611.0,
+        "additionalParamTotal": 161
+      },
+      "B": {
+        "weaponBase": 1222.0,
+        "armorBase": 611.0,
+        "additionalParamTotal": 322
+      },
+      "A": {
+        "weaponBase": 1222.0,
+        "armorBase": 611.0,
+        "additionalParamTotal": 484
+      },
+      "S": {
+        "weaponBase": 1222.0,
+        "armorBase": 611.0,
+        "additionalParamTotal": 645
+      },
+      "S+": {
+        "weaponBase": 1344.0,
+        "armorBase": 672.0,
+        "additionalParamTotal": 709
+      }
+    }
+  },
+  "80": {
+    "names": {
+      "1_1": "Sword of the Commandress",
+      "1_2": "Pistol of the Commandress",
+      "1_4": "Tenet of the Commandress",
+      "4_7": "Helm of the Commandress",
+      "3_7": "Gloves of the Commandress",
+      "5_7": "Cuirass of the Commandress",
+      "6_7": "Boots of the Commandress",
+      "2_7": "Jewels of the Commandress"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 1904.0,
+        "armorBase": 952.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 1904.0,
+        "armorBase": 952.0,
+        "additionalParamTotal": 302
+      },
+      "B": {
+        "weaponBase": 1904.0,
+        "armorBase": 952.0,
+        "additionalParamTotal": 604
+      },
+      "A": {
+        "weaponBase": 1904.0,
+        "armorBase": 952.0,
+        "additionalParamTotal": 907
+      },
+      "S": {
+        "weaponBase": 1904.0,
+        "armorBase": 952.0,
+        "additionalParamTotal": 1209
+      },
+      "S+": {
+        "weaponBase": 2094.0,
+        "armorBase": 1047.0,
+        "additionalParamTotal": 1329
+      }
+    }
+  },
+  "100": {
+    "names": {
+      "1_1": "Greatsword of the Paladin",
+      "1_2": "Vanquisher of Evil",
+      "1_4": "Testament of the Saint",
+      "4_7": "Helm of the Heavens",
+      "3_7": "Gloves of Salvation",
+      "5_7": "Corselet of the Azure Sky",
+      "6_7": "Boots of the Victor",
+      "2_7": "Tears of the Princess"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 3053.0,
+        "armorBase": 1526.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 3053.0,
+        "armorBase": 1526.0,
+        "additionalParamTotal": 566
+      },
+      "B": {
+        "weaponBase": 3053.0,
+        "armorBase": 1526.0,
+        "additionalParamTotal": 1133
+      },
+      "A": {
+        "weaponBase": 3053.0,
+        "armorBase": 1526.0,
+        "additionalParamTotal": 1699
+      },
+      "S": {
+        "weaponBase": 3053.0,
+        "armorBase": 1526.0,
+        "additionalParamTotal": 2266
+      },
+      "S+": {
+        "weaponBase": 3358.0,
+        "armorBase": 1678.0,
+        "additionalParamTotal": 2492
+      }
+    }
+  },
+  "120": {
+    "names": {
+      "1_1": "Sword of the Blessed Hero",
+      "1_2": "Rifle of the Just Crusader",
+      "1_4": "Tale of the High Sorceress",
+      "4_7": "Circlet of the Goddess",
+      "3_7": "Gauntlets of Rebirth",
+      "5_7": "Cuirass of the Holy Maiden",
+      "6_7": "Sabatons of Redemption",
+      "2_7": "Ring of Worship"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 4966.0,
+        "armorBase": 2483.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 4966.0,
+        "armorBase": 2483.0,
+        "additionalParamTotal": 1061
+      },
+      "B": {
+        "weaponBase": 4966.0,
+        "armorBase": 2483.0,
+        "additionalParamTotal": 2123
+      },
+      "A": {
+        "weaponBase": 4966.0,
+        "armorBase": 2483.0,
+        "additionalParamTotal": 3185
+      },
+      "S": {
+        "weaponBase": 4966.0,
+        "armorBase": 2483.0,
+        "additionalParamTotal": 4247
+      },
+      "S+": {
+        "weaponBase": 5462.0,
+        "armorBase": 2731.0,
+        "additionalParamTotal": 4671
+      }
+    }
+  },
+  "140": {
+    "names": {
+      "1_1": "Sword of the Sovereign",
+      "1_2": "Rifle of the Roaring Winds",
+      "1_4": "Tome of the Ancient Forest",
+      "4_7": "Burgonet of the Savant",
+      "3_7": "Gloves of the Guardian",
+      "5_7": "Coat of the Royal Fay",
+      "6_7": "Boots of the Windfarer",
+      "2_7": "Earrings of Jade"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 8175.0,
+        "armorBase": 4087.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 8175.0,
+        "armorBase": 4087.0,
+        "additionalParamTotal": 1989
+      },
+      "B": {
+        "weaponBase": 8175.0,
+        "armorBase": 4087.0,
+        "additionalParamTotal": 3979
+      },
+      "A": {
+        "weaponBase": 8175.0,
+        "armorBase": 4087.0,
+        "additionalParamTotal": 5968
+      },
+      "S": {
+        "weaponBase": 8175.0,
+        "armorBase": 4087.0,
+        "additionalParamTotal": 7958
+      },
+      "S+": {
+        "weaponBase": 8992.0,
+        "armorBase": 4495.0,
+        "additionalParamTotal": 8753
+      }
+    }
+  },
+  "160": {
+    "names": {
+      "1_1": "Sword of the Silver Knight",
+      "1_2": "Rifle of the Silver Comet",
+      "1_4": "Chronicle of Silver Snow",
+      "4_7": "Helm of the Battle Maiden",
+      "3_7": "Gloves of Heaven\u2019s Promise",
+      "5_7": "Cuirass of Divine Blessing",
+      "6_7": "Boots of Holy Proclamation",
+      "2_7": "Ring of Twilight"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 13590.0,
+        "armorBase": 6795.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 13590.0,
+        "armorBase": 6795.0,
+        "additionalParamTotal": 3728
+      },
+      "B": {
+        "weaponBase": 13590.0,
+        "armorBase": 6795.0,
+        "additionalParamTotal": 7456
+      },
+      "A": {
+        "weaponBase": 13590.0,
+        "armorBase": 6795.0,
+        "additionalParamTotal": 11184
+      },
+      "S": {
+        "weaponBase": 13590.0,
+        "armorBase": 6795.0,
+        "additionalParamTotal": 14913
+      },
+      "S+": {
+        "weaponBase": 14949.0,
+        "armorBase": 7474.0,
+        "additionalParamTotal": 16404
+      }
+    }
+  },
+  "180": {
+    "names": {
+      "1_1": "Sword of Intertwined Fates",
+      "1_2": "Shot of Brilliance",
+      "1_4": "Book of Prophecies",
+      "4_7": "Helm of the Great Hero",
+      "3_7": "Gloves of the Oracle",
+      "5_7": "Corselet of the Matron",
+      "6_7": "Boots of the Savior",
+      "2_7": "Proof of the Saint"
+    },
+    "grades": {
+      "D": {
+        "weaponBase": 22780.0,
+        "armorBase": 11390.0,
+        "additionalParamTotal": 0
+      },
+      "C": {
+        "weaponBase": 22780.0,
+        "armorBase": 11390.0,
+        "additionalParamTotal": 6986
+      },
+      "B": {
+        "weaponBase": 22780.0,
+        "armorBase": 11390.0,
+        "additionalParamTotal": 13972
+      },
+      "A": {
+        "weaponBase": 22780.0,
+        "armorBase": 11390.0,
+        "additionalParamTotal": 20959
+      },
+      "S": {
+        "weaponBase": 22780.0,
+        "armorBase": 11390.0,
+        "additionalParamTotal": 27945
+      },
+      "S+": {
+        "weaponBase": 25058.0,
+        "armorBase": 12529.0,
+        "additionalParamTotal": 30739
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Memento Mori CP Engine",
+  "description": "Kalkulator Combat Power dan Statistik Telanjang Karakter Memento Mori berdasarkan Master ScobraCK dan formula resmi in-game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
